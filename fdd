@@ -1,0 +1,29 @@
+[33mcommit b306acad87d96914c8b12822f2a7585ed2f47d84[m
+Author: Claudia P. Lopez <hernandezclaudia1501@gmail.com>
+Date:   Sun Apr 14 19:37:40 2013 -0600
+
+    Finish layout and routes
+
+[33mcommit 8672193bd8b53cbe05cf65bae92567abca6e7ff8[m
+Author: Claudia P. Lopez <hernandezclaudia1501@gmail.com>
+Date:   Sun Apr 14 14:19:01 2013 -0600
+
+    Add a full_title helper
+
+[33mcommit d05634bdada2ff84de93b05d7f1bc97effb526b0[m
+Author: Claudia P. Lopez <hernandezclaudia1501@gmail.com>
+Date:   Fri Apr 12 18:03:20 2013 -0600
+
+    finish static pages
+
+[33mcommit 36982ac49c0dc2de4380834fca9c68ab07d87f25[m
+Author: Claudia P. Lopez <hernandezclaudia1501@gmail.com>
+Date:   Fri Apr 12 13:15:08 2013 -0600
+
+    pruebas
+
+[33mcommit 2864f1a54c7b21dae0f02f4243c12fbbbc532526[m
+Author: Claudia P. Lopez <hernandezclaudia1501@gmail.com>
+Date:   Thu Apr 11 22:24:45 2013 -0600
+
+    commit first application
