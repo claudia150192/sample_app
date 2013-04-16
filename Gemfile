@@ -9,12 +9,16 @@ gem 'bcrypt-ruby'
 group :development, :test do
 gem 'rspec-rails'
 gem 'factory_girl_rails'
+
+gem 'cucumber-rails', '1.2.1', :require => false
+gem 'database_cleaner', '0.7.0'
 end
 
 gem 'capybara'
 
 gem 'sqlite3'
 
+gem "heroku", "~> 2.32.14"
 
 # Gems used only for assets and not required
 # in production environments by default.
