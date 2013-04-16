@@ -1,4 +1,6 @@
 SampleApp::Application.routes.draw do
+  resources :users
+  
   root to: 'staticpages#home' #get "staticpages/home"
   match "/help",to:"staticpages#help" #get "staticpages/help"
   match "/about",to:"staticpages#about" #get "staticpages/about"
